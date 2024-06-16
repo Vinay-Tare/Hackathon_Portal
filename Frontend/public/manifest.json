@@ -1,0 +1,11 @@
+{
+  "short_name": "Hackathon Portal Application",
+  "name": "Hackathon Portal Application",
+  "icons": [
+    {
+      "src": "https://www.incedoinc.com/wp-content/uploads/incedo_fav-150x150.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}

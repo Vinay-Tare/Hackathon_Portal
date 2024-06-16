@@ -1,0 +1,150 @@
+.landing_img {
+  border-radius: 8px;
+}
+.txt-1 {
+  margin-left: 45px !important;
+  margin-top: 20px !important;
+}
+.card-1 {
+  padding: 20px;
+  transition: all 0.4s ease-in-out;
+}
+.back {
+  color: white !important;
+  background-color: #212529 !important;
+  transition: all 0.3s ease-out;
+}
+.align {
+  text-align: justify;
+}
+.back:hover {
+  background-color: #2c2c2c !important;
+}
+.card-1:hover {
+  /* border: 1px solid white; */
+  background-color: rgb(40, 36, 36);
+  transform: scale(0.9);
+  border-radius: 10px;
+}
+.btn-participate {
+  background-color: orangered !important;
+  font-weight: bold !important;
+  transition: all 0.4s ease-out;
+}
+.btn-participate:hover {
+  background-color: rgb(215, 66, 12) !important;
+  transform: scale(0.94);
+}
+.landing-page {
+  position: relative !important;
+  background-color: #000000 !important;
+  color: white;
+}
+
+.landing-page .info {
+  width: 50%;
+  float: left;
+  margin-top: 140px;
+}
+
+.landing-page .info h1 {
+  font-size: 44px;
+  margin: 0 0 20px;
+  line-height: 1.4;
+}
+.space-up {
+  margin-top: 20px;
+  background-color: orangered !important;
+  font-weight: 600 !important;
+}
+.space-up:hover {
+  cursor: context-menu;
+  color: white !important;
+}
+.space {
+  margin-top: 20px;
+  transition: all 0.8s ease-out;
+  box-shadow: 0px 2px 7px 4px #9a9999;
+}
+.space:hover {
+  transform: scale(0.9);
+  box-shadow: 0px 2px 7px 4px #9a9999;
+}
+.card-judging {
+  padding: 20px;
+  border: 4px solid black !important;
+  border-radius: 10px !important;
+  transition: all 0.4s ease-in-out;
+}
+.display-benefits {
+  display: flex;
+  padding: 20px;
+}
+.spacing-margin {
+  margin-left: 20px;
+}
+.card-judging:hover {
+  transform: scale(1.1);
+}
+
+.spacing {
+  margin-top: 30px !important;
+}
+
+.landing-page .info p {
+  margin: 0;
+  line-height: 1.6;
+  font-size: 15px;
+}
+
+.landing-page .info button {
+  border: 0;
+  border-radius: 20px;
+  padding: 12px 30px;
+  margin-top: 30px;
+  cursor: pointer;
+  color: #fff;
+  background-color: #6c63ff;
+}
+
+.landing-page .images {
+  width: 50%;
+  float: right;
+  padding-left:60px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  transition: all 0.8s ease-in-out;
+}
+.images:hover {
+  transform: scale(1.09);
+}
+
+.landing-page .images img {
+  max-width: 100%;
+  border-radius: 10px;
+}
+.center-txt {
+  align-items: center;
+  margin-top: 20px;
+  padding: 20px;
+}
+.style {
+  padding: 10px;
+  font-weight: 700;
+  font-size: 30px;
+}
+.color-txt {
+  color: #000000 !important;
+}
+.clearfix {
+  clear: both;
+}
+.spacing-img {
+  margin-left: 80px !important;
+  margin-top: 40px !important;
+}
+
+.bold {
+  font-weight: 800;
+  text-align: center;
+}

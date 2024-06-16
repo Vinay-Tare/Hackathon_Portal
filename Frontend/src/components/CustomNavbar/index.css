@@ -1,0 +1,16 @@
+.txt-nav {
+  color: white;
+  padding: 8px;
+  font-weight: 600;
+  margin-right: 30px;
+  border-radius: 10px;
+  letter-spacing: 0.0625rem;
+  cursor: pointer;
+}
+.txt-nav:hover {
+  border: 2px orangered;
+  color: black;
+  font-weight: bold;
+  background-color: orangered;
+  transition: 350ms ease-in-out;
+}

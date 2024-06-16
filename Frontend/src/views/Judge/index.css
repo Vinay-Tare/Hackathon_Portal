@@ -1,0 +1,30 @@
+.card-background{
+    border: 1px solid black !important;
+}
+.btn-color-1{
+    background-color: rgb(0, 0, 0) !important;
+    color: white !important;
+}
+.border-text{
+    border: 1px solid black !important;
+}
+.txt-heading{
+    text-align: center;
+    font-weight: 800;
+    color: orangered;
+}
+.btn-submit{
+    background-color: orangered !important;
+    color: white;
+    font-weight: 700 !important;
+}
+.names{
+    font-weight: 500;
+}
+.color-btn-name{
+    background-color: orangered !important;
+}
+.text-btn{
+    font-weight: 500 !important;
+    color: black !important;
+}

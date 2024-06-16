@@ -1,0 +1,31 @@
+.status-btn-color{
+    background-color: black !important;
+    font-weight: 500 !important;
+    
+}
+.time-btn:hover{
+    cursor: context-menu !important;
+}
+.status-btn-color:hover{
+    cursor: context-menu !important;
+}
+.card-color{
+    background-color: white !important;
+    color: black ;
+    border: 1px solid black !important;
+}
+.border-input{
+    border: 1px solid black !important;
+}
+.accept-btn{
+    background-color: rgba(65, 199, 18, 1)!important;
+    font-weight: 500 !important;
+}
+.reject-btn{
+    background-color: rgba(196, 13, 13, 1) !important;
+    font-weight: 500 !important;
+}
+.inreview-btn{
+    background-color: rgba(237, 155, 31, 1) !important;
+    font-weight: 500 !important;
+}

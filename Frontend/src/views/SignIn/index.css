@@ -1,0 +1,12 @@
+.space-2{
+    padding: 20px;
+    width: auto !important;
+    box-shadow: 0px 0px 7px 1px;
+    margin-top: 30px !important;
+}
+.space-3{
+    border: 0px;
+}
+.space-3:hover{
+    background-color: rgb(206, 63, 10) !important;
+}

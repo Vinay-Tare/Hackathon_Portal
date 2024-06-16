@@ -1,0 +1,13 @@
+.stars {
+  font-size: x-large;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.on {
+  color: #e8e805;
+}
+.off {
+  color: #f0f0f0;
+}

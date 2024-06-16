@@ -1,0 +1,96 @@
+body {
+  background-color: rgba(236, 236, 236, 1) !important;
+  padding-top: 60px;
+}
+
+.custom-card-title {
+  color: orangered;
+  text-align: center;
+  font-weight: bolder !important;
+}
+
+.custom-button {
+  color: white !important;
+  background-color: orangered !important;
+  border-radius: 8px !important;
+  font-weight: 600 !important;
+}
+
+.custom-input {
+  border: none !important;
+  border-radius: 0px !important;
+  border-bottom: 2px solid grey !important;
+}
+
+.custom-input:focus {
+  border-bottom: 3px solid black !important;
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.custom-file-input {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  border: 1px solid gray;
+  border-radius: 0px;
+}
+
+.custom-file-input:hover {
+  cursor: pointer;
+  border: 1px solid black !important;
+}
+
+.custom-input-group-text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0px !important;
+  background-color: orangered !important;
+  color: white !important;
+  font-weight: 600 !important;
+}
+
+.react-select__control {
+  border: 1px solid gray !important;
+  border-radius: 0px !important;
+  cursor: pointer !important;
+}
+
+.react-select__control--is-focused {
+  outline: none !important;
+  box-shadow: none !important;
+  border: 1px solid black !important;
+  cursor: text !important;
+}
+
+.custom-member-button-link {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 5px;
+  color: black;
+  padding: 8px;
+  text-decoration: none;
+}
+
+.custom-member-button-link:hover {
+  color: black;
+}
+
+.status-button {
+  background-color: black !important;
+}
+
+.custom-collapse-toggler {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
